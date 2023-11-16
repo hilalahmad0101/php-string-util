@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/fullstack124/php-string-util/issues">
+  <a href="https://github.com/hilalahmad0101/php-string-util/issues">
     <img src="https://img.shields.io/github/issues/fullstack124/php-string-util" alt="GitHub issues">
   </a>
-  <a href="https://github.com/fullstack124/php-string-util/stargazers">
+  <a href="https://github.com/hilalahmad0101/php-string-util/stargazers">
     <img src="https://img.shields.io/github/stars/fullstack124/php-string-util" alt="GitHub stars">
   </a>
-  <a href="https://packagist.org/packages/fullstack124/php-string-util">
+  <a href="https://packagist.org/packages/hilalahmad0101/php-string-util">
     <img src="https://img.shields.io/packagist/dt/fullstack124/php-string-util" alt="Total Downloads">
   </a>
-  <a href="https://github.com/fullstack124/php-string-util/blob/main/LICENSE">
+  <a href="https://github.com/hilalahmad0101/php-string-util/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/fullstack124/php-string-util" alt="License">
   </a>
 </p>
