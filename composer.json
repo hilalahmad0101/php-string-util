@@ -1,0 +1,73 @@
+{
+    "name": "hilalahmad/string-util",
+    "type": "library",
+    "version": "1.0.0",
+    "description": "php-string-util is a versatile PHP library designed to simplify and enhance string manipulation tasks in your PHP projects. Whether you're working on web development, data processing, or any other application requiring robust string handling, this utility provides a comprehensive set of functions.",
+    "keywords": [
+        "#PHP",
+        "#String",
+        "#Manipulation,",
+        "#String",
+        "#Utility",
+        "#Library,",
+        "#String",
+        "#Operations,",
+        "#Text",
+        "#Processing,",
+        "#String",
+        "#Functions,",
+        "#PHP",
+        "#Library,",
+        "#String",
+        "#Transformation,",
+        "#Text",
+        "#Manipulation,",
+        "#String",
+        "#Encoding,",
+        "#String",
+        "#Decoding,",
+        "#Regular",
+        "#Expressions,",
+        "#Pattern",
+        "#Matching,",
+        "#CamelCase",
+        "#Conversion,",
+        "#Leetspeak,",
+        "#ASCII",
+        "#Conversion,",
+        "#HTML",
+        "#Entity",
+        "#Encoding,",
+        "#Base64",
+        "#Encoding,",
+        "#Utility",
+        "#Functions,",
+        "#Text",
+        "#Transformation,",
+        "#Open",
+        "#Source,",
+        "#Composer",
+        "#Package,",
+        "#PHP",
+        "#Development,",
+        "#Code",
+        "#Reusability,",
+        "#Contribution"
+    ],
+    "require": {
+        "php": "^7.2 | ^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hilalahmad\\StringUtil\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fullstack124",
+            "email": "stackf64@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
