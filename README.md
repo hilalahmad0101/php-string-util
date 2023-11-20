@@ -31,7 +31,7 @@ composer require hilalahmad/string-util
  
 ## Basic Usage
 
-Here's an example of how to use the HttpClient package to send a GET request:
+Here's an example of how to use the string utils package:
 
 ```bash
 use Hilalahmad\StringUtil\StringUtil;
@@ -157,9 +157,7 @@ $nonAlphanumericString = "Remove special characters!@#";
 $removedNonAlphanumeric = AdvancedStringUtil::removeNonAlphanumeric($nonAlphanumericString);
 echo "Remove Non-Alphanumeric: $removedNonAlphanumeric\n";
 ```
-
-### Generate Share Links in HTML
-- You can now directly embed the generated share links with custom styles into your HTML code:
+ 
 ## Contribution
 
 If you'd like to contribute to this package or report issues, please check the  <a href="https://github.com/fullstack124/php-string-util/issues"> Github repo</a> for more details.
